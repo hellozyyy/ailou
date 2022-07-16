@@ -1,3 +1,0 @@
-trojan-go://ae146ce1-ca37-4c8f-aabe-2231c019e83f@db3b5dba.erjtymhfg.pages.dev:443/?type=ws&sni=db3b5dba.erjtymhfg.pages.dev&host=db3b5dba.erjtymhfg.pages.dev&path=%2Fae146ce1-ca37-4c8f-aabe-2231c019e83f-trojan#trojan-go 02
-
-vmess://ws+tls:ce7d42ed-13bc-4cd1-8d70-2af6331f0fca-0@172.64.151.40:443/?host=www.dededem.cf&path=/gfnlvws&tlsServerName=www.dededem.cf#vmess3
